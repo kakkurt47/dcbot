@@ -1,7 +1,7 @@
 ## Winamp Talia Music 
 
 ## HEROKU İLE DAĞIT 📮</h4>
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mehmetbaba55/Heroku)
+[ ! [Dağıt] ( https://www.herokucdn.com/deploy/button.svg ) ] ( https://heroku.com/deploy?template=https://github.com/kakkurt47/Heroku )
 
  
 
