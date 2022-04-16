@@ -15,22 +15,22 @@
   "env": {
     "API_ID": {
       "description": "Bu değeri https://my.telegram.org",
-      "value": "",
+      "value": "9544149",
       "required": true
     },
     "API_HASH": {
       "description": "Bu değeri https://my.telegram.org",
-      "value": "",
+      "value": "ec6038735b49819f89c26567dc43b161",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "Botfather'dan bir Bot jetonu",
-      "value": "",
+      "value": "5251454817:AAFZ-_VygKxgBuQpLX2MUi_UWmdg7ePQ_0k",
       "required": true
     },
     "DURATION_LIMIT": {
       "description": "Playout için Süre Sınırı (In Mins).. Example: 60",
-      "value": "60",
+      "value": "280",
       "required": true
     },
     "ASSISTANT_PREFIX": {
@@ -40,32 +40,32 @@
     },
     "MONGO_DB_URI": {
       "description": "Mongo DB URL",
-      "value": "",
+      "value": "mongodb+srv://tutku47:tutku47@cluster0.pg08w.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
       "required": true
     },
     "MUSIC_BOT_NAME": {
       "description": "Music Bot'unuz için bir ad.",
-      "value": "",
+      "value": "@tutkumusic_bot",
       "required": true
     },
     "SUPPORT_CHANNEL": {
       "description": "Varsa Kanal Bağlantısını Destekleyin, Destek yoksa boş bırakın. Bağlantınız https://t.me/",
-      "value": "",
+      "value": "https://t.me/yangazlargrup",
       "required": false
     },
     "SUPPORT_GROUP": {
       "description": "Varsa Destek Grubu Bağlantısı, Destek yoksa boş bırakın. Bağlantınız https://t.me/",
-      "value": "",
+      "value": "https://t.me/elbet_sen",
       "required": false
     },
     "OWNER_ID": {
       "description": "SAHİbİ olarak eklemek istediğiniz kullanıcı(lar)ın kullanıcı kimlikleri. Birden çok değer bir boşlukla ayrıştırılacaktır.",
-      "value": "",
+      "value": "5245696568",
       "required": true
     },
     "STRING_SESSION1": {
       "description": "Pyrogram Dize Oturumu. Bir Asistan Zorunludur.",
-      "value": "",
+      "value": "AQCuXXkSXJgIvDF9n0ejDtec9WNeEnLlQhN5Ww5vSqm8_ekqrKYSnJLoc4IKVUMDif0ApXMaKMR_rRWcZqbBD6kQN8L6vDpvyjLV1fg6YjLZw1EK-T9wj6VEFJr0rEFz3KGhv31GPrLzRB5a-VRiAT-lDWrSZZgNQqkndyJ1Lv0j0Niye3R2ERfegu2urwVl3fdLfJJsIedCyadJL_fJhwgXSj0kqbkTVrE_9EwXNy5-ZjWHO3MVfcQdLwsn1j5bnabH9WuiORJEHlnQf-gOMZZd7KPbx_Ug7jYL_r-TOi736m9GSElybzrdTWtMf0ax05udz-ptahkx60VrjiGZHBzwetqD3QA",
       "required": true
     },
     "STRING_SESSION2": {
@@ -100,7 +100,7 @@
     },
     "LOG_GROUP_ID": {
       "description": "Günlük Grubu Kimliğinizi ekleyin, botunuzu ekleyin ve tam haklara sahip bir yönetici olarak tanıtın!. Yalnızca Grup'ı kullanın. Lütfen Kanal Kimliği kullanmayın.",
-      "value": "",
+      "value": "-1001778561493",
       "required": true
     },
     "SUDO_USERS": {
