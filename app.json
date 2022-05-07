@@ -25,7 +25,7 @@
     },
     "BOT_TOKEN": {
       "description": "Botfather'dan bir Bot jetonu",
-      "value": "5251454817:AAFZ-_VygKxgBuQpLX2MUi_UWmdg7ePQ_0k",
+      "value": "5251454817:AAGf9NvyqSg2BP5QKKreqIe7H1DFpBZKQoA",
       "required": true
     },
     "DURATION_LIMIT": {
@@ -65,7 +65,7 @@
     },
     "STRING_SESSION1": {
       "description": "Pyrogram Dize Oturumu. Bir Asistan Zorunludur.",
-      "value": "AQCuXXkSXJgIvDF9n0ejDtec9WNeEnLlQhN5Ww5vSqm8_ekqrKYSnJLoc4IKVUMDif0ApXMaKMR_rRWcZqbBD6kQN8L6vDpvyjLV1fg6YjLZw1EK-T9wj6VEFJr0rEFz3KGhv31GPrLzRB5a-VRiAT-lDWrSZZgNQqkndyJ1Lv0j0Niye3R2ERfegu2urwVl3fdLfJJsIedCyadJL_fJhwgXSj0kqbkTVrE_9EwXNy5-ZjWHO3MVfcQdLwsn1j5bnabH9WuiORJEHlnQf-gOMZZd7KPbx_Ug7jYL_r-TOi736m9GSElybzrdTWtMf0ax05udz-ptahkx60VrjiGZHBzwetqD3QA",
+      "value": "AQB7azGO7MY2EtehIYBnY6manjRIhxrmFdOWQJhuGgtrjGNNTgMHrN_m2kyqZOJAsA3qeFow4Gt4Q97X9kf6oN4_1P-0BPgHaxtHcGpltn2_NieOMY_HP73UA5ekSnjj0HGg87pvL4Bbza5VLoJ4hoJO7ehzxj9It5hCOIe7ydVpaO7a7ZiPPSJwZlHvzU47mX6JGldAUzOjl23r-jkwCjtG0B6_OEiof2amo75CWf2rJcaeVbSNwZpafkZ-qR0XVhVZub3MDLgOMh_oh6e2sFbhQSKqPOStqf9xG3fe9exb7rP4HRTRAPrtg0_WctAOv1-Vb3jmm3L96LyAKdT15NzwetqD3QA",
       "required": true
     },
     "STRING_SESSION2": {
