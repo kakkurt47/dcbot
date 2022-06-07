@@ -25,7 +25,7 @@
     },
     "BOT_TOKEN": {
       "description": "Botfather'dan bir Bot jetonu",
-      "value": "5251454817:AAGf9NvyqSg2BP5QKKreqIe7H1DFpBZKQoA",
+      "value": "5443954887:AAGW_TY12gfzYRiFBw-uvRYR6QQiPm5WUCU",
       "required": true
     },
     "DURATION_LIMIT": {
@@ -45,27 +45,28 @@
     },
     "MUSIC_BOT_NAME": {
       "description": "Music Bot'unuz için bir ad.",
-      "value": "@tutkumusic_bot",
+      "value": "@tutkumusicbot",
       "required": true
     },
     "SUPPORT_CHANNEL": {
       "description": "Varsa Kanal Bağlantısını Destekleyin, Destek yoksa boş bırakın. Bağlantınız https://t.me/",
-      "value": "https://t.me/yangazlargrup",
+      "value": "https://t.me/tutkukanal",
       "required": false
     },
     "SUPPORT_GROUP": {
       "description": "Varsa Destek Grubu Bağlantısı, Destek yoksa boş bırakın. Bağlantınız https://t.me/",
-      "value": "https://t.me/elbet_sen",
+      "value": "https://t.me/tutkudestek",
       "required": false
     },
     "OWNER_ID": {
       "description": "SAHİbİ olarak eklemek istediğiniz kullanıcı(lar)ın kullanıcı kimlikleri. Birden çok değer bir boşlukla ayrıştırılacaktır.",
-      "value": "5245696568",
+      "value": "5377241809",
       "required": true
     },
     "STRING_SESSION1": {
       "description": "Pyrogram Dize Oturumu. Bir Asistan Zorunludur.",
-      "value": "AQB7azGO7MY2EtehIYBnY6manjRIhxrmFdOWQJhuGgtrjGNNTgMHrN_m2kyqZOJAsA3qeFow4Gt4Q97X9kf6oN4_1P-0BPgHaxtHcGpltn2_NieOMY_HP73UA5ekSnjj0HGg87pvL4Bbza5VLoJ4hoJO7ehzxj9It5hCOIe7ydVpaO7a7ZiPPSJwZlHvzU47mX6JGldAUzOjl23r-jkwCjtG0B6_OEiof2amo75CWf2rJcaeVbSNwZpafkZ-qR0XVhVZub3MDLgOMh_oh6e2sFbhQSKqPOStqf9xG3fe9exb7rP4HRTRAPrtg0_WctAOv1-Vb3jmm3L96LyAKdT15NzwetqD3QA",
+      "value": "AQCHJVQyxFYqviL9XPS48kvKD8fAZWTdZsv3TKrWFb0vbSkMzyU89H7fUi-sYogLez5Z1WIKsckTZbkzz_NNH_2ZU2ddPHh1PrpixpHguow26uuLiJQcfEZANXigxPODfzJgBfFo1iuB--8eT3whF5QN--WlnSQMIuAmk40gGes9bSvbRW2XTsJ1ut3U8nE8GDJrDEV9GpXP6DiNo6waVDlCHGgzAOw1n5RmLIm4u_UN6QdYWdlvn3tbGbRUWgXLR9u1e7juCFvwfQTd_juhQ3ql-O47Hi42htiF_c0MHi7ULsYvWHEhown5DQbMwwRl7-aBUwjOyhV7zSu-zG72-PWvetqD3QA
+",
       "required": true
     },
     "STRING_SESSION2": {
@@ -100,17 +101,17 @@
     },
     "LOG_GROUP_ID": {
       "description": "Günlük Grubu Kimliğinizi ekleyin, botunuzu ekleyin ve tam haklara sahip bir yönetici olarak tanıtın!. Yalnızca Grup'ı kullanın. Lütfen Kanal Kimliği kullanmayın.",
-      "value": "-1001778561493",
+      "value": "-1001705674647",
       "required": true
     },
     "SUDO_USERS": {
       "description": "SUDO olarak eklemek istediğiniz kullanıcı(lar)ın kullanıcı kimlikleri. Birden çok değer bir boşlukla ayrıştırılacaktır.",
-      "value": "5245696568",
+      "value": "5377241809",
       "required": true
     },
     "UPSTREAM_REPO": {
       "description": "Eğer bunu bilmiyorsan, olduğu gibi git.",
-      "value": "https://github.com/Mehmetbaba06/maho",
+      "value": "https://github.com/kakkurt47/dcbot",
       "required": true
     },
     "UPSTREAM_BRANCH": {
